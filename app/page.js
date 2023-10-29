@@ -27,7 +27,8 @@ export default function Home() {
         </div>
       </div>
       <div>网站建设中....</div>
-      <div className="flex justify-center">渝ICP备2023000776号-1</div>
+      <div className="flex justify-center">
+        <a href="https://beian.miit.gov.cn/#/Integrated/index">渝ICP备2023000776号-1</a></div>
     </main>
   )
 }
